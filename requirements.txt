@@ -1,0 +1,12 @@
+pandas
+matplotlib
+beautifulsoup4
+ray
+torch
+pyarrow
+sentence_transformers
+langchain
+huggingface_hub
+llama-index-embeddings-huggingface
+llama-index-embeddings-instructor
+llama-index
